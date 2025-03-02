@@ -25,7 +25,7 @@ I am a passionate **DevOps Engineer** with **6+ years of experience**, specializ
 
 ### 🔹 Programming & Scripting  
 - **Languages:** Bash, Python, JavaScript, Node.js, PHP, Groovy  
-- **Frameworks & Libraries:** Flask (Python), Express (Node.js), FastAPI (Python), Next.js (TypeScript)  
+- **Frameworks & Libraries:** Flask (Python), FastAPI (Python), Express (Node.js), Next.js (TypeScript)  
 - **API Testing & Development:** Postman, Newman CLI, Spectral CLI  
 
 ### 🔹 DevOps & CI/CD  
