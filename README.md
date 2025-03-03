@@ -59,6 +59,7 @@ Azure Virtual Machines, Application Gateway, Azure SQL Database, Azure Functions
 - **Build Tools:** NPM, Apache Maven  
 - **Database Technologies:** MySQL, PostgreSQL, SQL Server, DynamoDB, RDS, Azure SQL  
 - **Agile & Project Management:** Azure Boards, Jira, ClickUp, GitLab Issues  
+- **Diagramming & Visualization:** draw.io, Excalidraw, Gliffy
 
 ---
 
